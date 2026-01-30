@@ -1,0 +1,17 @@
+ DevOps Cloud Engineer Training – Day 5 | Interview-Focused Learning
+
+As a student, I attended today’s DevOps Cloud Engineer session, which was highly valuable and focused on building strong fundamentals for real-world interviews and industry expectations.
+
+What I learned in today’s session:
+Practiced DevOps interview questions with detailed discussion and real-time examples
+Understood how to structure answers logically instead of memorizing responses
+Covered Git command interview questions, including their practical use cases
+Learned how Git commands are used in real projects for version control, collaboration, and troubleshooting
+
+The session helped me connect theoretical knowledge with practical scenarios, especially how tools like Git are used in day-to-day DevOps workflows. Practicing interview questions with real-time examples gave me better clarity on what interviewers expect and how to explain concepts with confidence.
+
+I’m truly thankful to my mentor Khushal Malik for the continuous guidance, clear explanations, and real-world insights. This mentorship is helping me build both technical skills and the right mindset required to grow as a DevOps Cloud Engineer.
+
+Looking forward to applying this knowledge, improving my interview skills, and learning more in the upcoming sessions.
+
+#DevOps #CloudEngineer #Git #InterviewPreparation #LearningJourney #RealTimeExamples #Day5 #StudentToProfessional #CareerGrowth
